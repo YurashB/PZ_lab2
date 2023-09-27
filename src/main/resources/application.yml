@@ -1,0 +1,8 @@
+spring:
+  # Database
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/pz-lab2
+    schema: public
+    username: postgres
+    password: password
